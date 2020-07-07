@@ -1,5 +1,5 @@
 def speak_to_grandma(phrase)
-if phrase != phrase
+if phrase.upcase != phrase
    ("I LOVE YOU TOO PUMPKIN!")
 elsif phrase.upcase != phrase
    ("HUH?! SPEAK UP, SONNY!")
